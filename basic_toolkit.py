@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 from f_text import *
-from rainb_text import *
 from c_text import *
 from bg1 import bg1_run
 from hash import multi_hash
