@@ -1,4 +1,4 @@
-socket
+sockets
 pyfiglet
 pexpect
 scapy
