@@ -1,4 +1,6 @@
-Basic toolkit is a set of various basic interactive security utilities that comprises 6 modules in 6 scripts(1 module per script) tied together with a master script, basic_toolkit.py.
+Basic toolkit is a set of various basic interactive security utilities built with Python.
+
+Comprised of 6 modules in 6 scripts(1 module per script) tied together with a master script, basic_toolkit.py.
 
 No syntax required, just run the scripts.
 
