@@ -1,0 +1,6 @@
+socket
+pyfiglet
+pexpect
+scapy
+hashlib
+ftplib
